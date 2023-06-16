@@ -1,0 +1,79 @@
+[
+  {
+    "_id": "61c97a6513c15500133fcc5c",
+    "author": {
+      "image": "",
+      "id": "61c979f513c15500133fcc41",
+      "username": "user1"
+    },
+    "likes": 2,
+    "commentsCount": 9,
+    "postUpdatedAt": "2021-12-27T10:31:59.733Z",
+    "isDeleted": false,
+    "urlId": "IbG6wD",
+    "slug": "slug-1",
+    "title": "title 1",
+    "category": "category-1",
+    "subcategory": "subcategory-1",
+    "content": "<p>test post 1</p>",
+    "images": [],
+    "rating": 5,
+    "createdAt": "2021-12-27T08:33:41.993Z",
+    "updatedAt": "2022-01-07T19:33:57.899Z",
+    "__v": 0
+  },
+  {
+    "_id": "61c9af9a20c3da0013a00f4a",
+    "author": {
+      "image": "",
+      "id": "61c9954320c3da0013a00ccd",
+      "username": "user2"
+    },
+    "likes": 1,
+    "commentsCount": 0,
+    "postUpdatedAt": "2021-12-27T12:20:53.791Z",
+    "isDeleted": false,
+    "urlId": "ogPXyy",
+    "slug": "slug-2",
+    "title": "title 2",
+    "category": "category-2",
+    "subcategory": "subcategory-2",
+    "content": "<p>test post 2</p>",
+    "images": [
+      {
+        "identifier": "OQmnnWNr10DPYRsG4bvZS",
+        "height": "",
+        "width": "",
+        "type": "image/png",
+        "alt": "Cool review title here!"
+      }
+    ],
+    "rating": 5,
+    "createdAt": "2021-12-27T12:20:42.943Z",
+    "updatedAt": "2021-12-28T11:42:27.758Z",
+    "__v": 0
+  },
+  {
+    "_id": "61d6fd2068238e00131e32ea",
+    "author": {
+      "image": "",
+      "id": "61c979f513c15500133fcc41",
+      "username": "user3"
+    },
+    "likes": 0,
+    "commentsCount": 0,
+    "postUpdatedAt": "2022-01-06T14:58:42.339Z",
+    "isDeleted": false,
+    "category": "category-3",
+    "subcategory": "subcategory-3",
+    "title": "title 3",
+    "content": "<p>test post 3</p>",
+    "images": [],
+    "rating": 3,
+    "urlId": "WyUUB6",
+    "slug": "slug-3",
+    "createdAt": "2022-01-06T14:30:56.858Z",
+    "updatedAt": "2022-01-08T08:06:00.403Z",
+    "__v": 0
+  }
+]

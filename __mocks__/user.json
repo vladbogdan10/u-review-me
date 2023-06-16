@@ -1,0 +1,14 @@
+{
+  "_id": "61c979f513c15500133fcc41",
+  "name": "Test User",
+  "email": "test@test.com",
+  "image": "imageIdentifierOrSvgData",
+  "emailVerified": "2021-12-27T10:29:48.346Z",
+  "createdAt": "2021-12-27T08:31:49.035Z",
+  "updatedAt": "2021-12-27T10:29:48.352Z",
+  "newUser": false,
+  "bio": "",
+  "showName": true,
+  "username": "testUser",
+  "__v": 0
+}

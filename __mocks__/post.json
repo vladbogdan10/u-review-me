@@ -1,0 +1,13 @@
+{
+  "category": "test",
+  "subcategory": "test",
+  "title": "test title!",
+  "content": "<p>test</p>",
+  "images": [],
+  "rating": 3,
+  "author": {
+    "id": "61c74f6bcb6b4b0014fbf775",
+    "username": "test",
+    "image": ""
+  }
+}

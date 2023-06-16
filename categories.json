@@ -1,0 +1,278 @@
+{
+  "games": {
+    "title": "Game Reviews from Users like You",
+    "description": "Find the most helpful game reviews and experiences from users that own and play the games. Or write your game review and let the community know your thoughts.",
+    "subcategories": {
+      "action-rpg": {
+        "slug": "action-rpg",
+        "name": "Action RPG",
+        "title": "Action RPG Game Reviews",
+        "description": "Find the most helpful Action RPG game reviews and experiences from users like you. Or write your Action RPG game review and let the community know your thoughts."
+      },
+      "adventure": {
+        "slug": "adventure",
+        "name": "Adventure",
+        "title": "Adventure Game Reviews",
+        "description": "Find the most helpful Adventure game reviews and experiences from users like you. Or write your Adventure game review and let the community know your thoughts."
+      },
+      "action-adventure": {
+        "slug": "action-adventure",
+        "name": "Action-adventure",
+        "title": "Action-adventure Game Reviews",
+        "description": "Find the most helpful Action-adventure game reviews and experiences from users like you. Or write your Action-adventure game review and let the community know your thoughts."
+      },
+      "battle-royale": {
+        "slug": "battle-royale",
+        "name": "Battle Royale",
+        "title": "Battle Royale Game Reviews",
+        "description": "Find the most helpful Battle Royale game reviews and experiences from users like you. Or write your Battle Royale game review and let the community know your thoughts."
+      },
+      "fighting": {
+        "slug": "fighting",
+        "name": "Fighting",
+        "title": "Fighting Game Reviews",
+        "description": "Find the most helpful Fighting game reviews and experiences from users like you. Or write your Fighting game review and let the community know your thoughts."
+      },
+      "free-to-play": {
+        "slug": "free-to-play",
+        "name": "Free to Play",
+        "title": "Free to Play Game Reviews",
+        "description": "Find the most helpful Free to Play game reviews and experiences from users like you. Or write your Free to Play game review and let the community know your thoughts."
+      },
+      "indie": {
+        "slug": "indie",
+        "name": "Indie",
+        "title": "Indie Game Reviews",
+        "description": "Find the most helpful Indie game reviews and experiences from users like you. Or write your Indie game review and let the community know your thoughts."
+      },
+      "jrpg": {
+        "slug": "jrpg",
+        "name": "JRPG",
+        "title": "JRPG Game Reviews",
+        "description": "Find the most helpful JRPG game reviews and experiences from users like you. Or write your JRPG game review and let the community know your thoughts."
+      },
+      "metroidvania": {
+        "slug": "metroidvania",
+        "name": "Metroidvania",
+        "title": "Metroidvania Game Reviews",
+        "description": "Find the most helpful Metroidvania game reviews and experiences from users like you. Or write your Metroidvania game review and let the community know your thoughts."
+      },
+      "mmorpg": {
+        "slug": "mmorpg",
+        "name": "MMORPG",
+        "title": "MMORPG Game Reviews",
+        "description": "Find the most helpful MMORPG game reviews and experiences from users like you. Or write your MMORPG game review and let the community know your thoughts."
+      },
+      "moba": {
+        "slug": "moba",
+        "name": "MOBA",
+        "title": "MOBA Game Reviews",
+        "description": "Find the most helpful MOBA game reviews and experiences from users like you. Or write your MOBA game review and let the community know your thoughts."
+      },
+      "platformer": {
+        "slug": "platformer",
+        "name": "Platformer",
+        "title": "Platformer Game Reviews",
+        "description": "Find the most helpful Platformer game reviews and experiences from users like you. Or write your Platformer game review and let the community know your thoughts."
+      },
+      "puzzle": {
+        "slug": "puzzle",
+        "name": "Puzzle",
+        "title": "Puzzle Game Reviews",
+        "description": "Find the most helpful Puzzle game reviews and experiences from users like you. Or write your Puzzle game review and let the community know your thoughts."
+      },
+      "racing": {
+        "slug": "racing",
+        "name": "Racing",
+        "title": "Racing Game Reviews",
+        "description": "Find the most helpful Racing game reviews and experiences from users like you. Or write your Racing game review and let the community know your thoughts."
+      },
+      "rhythm": {
+        "slug": "rhythm",
+        "name": "Rhythm",
+        "title": "Rhythm Game Reviews",
+        "description": "Find the most helpful Rhythm game reviews and experiences from users like you. Or write your Rhythm game review and let the community know your thoughts."
+      },
+      "roguelike": {
+        "slug": "roguelike",
+        "name": "Roguelike",
+        "title": "Roguelike Game Reviews",
+        "description": "Find the most helpful Roguelike game reviews and experiences from users like you. Or write your Roguelike game review and let the community know your thoughts."
+      },
+      "rpg": {
+        "slug": "rpg",
+        "name": "RPG",
+        "title": "RPG Game Reviews",
+        "description": "Find the most helpful RPG game reviews and experiences from users like you. Or write your RPG game review and let the community know your thoughts."
+      },
+      "simulation": {
+        "slug": "simulation",
+        "name": "Simulation",
+        "title": "Simulation Game Reviews",
+        "description": "Find the most helpful Simulation game reviews and experiences from users like you. Or write your Simulation game review and let the community know your thoughts."
+      },
+      "sport": {
+        "slug": "sport",
+        "name": "Sport",
+        "title": "Sport Game Reviews",
+        "description": "Find the most helpful Sport game reviews and experiences from users like you. Or write your Sport game review and let the community know your thoughts."
+      },
+      "sandbox": {
+        "slug": "sandbox",
+        "name": "Sandbox",
+        "title": "Sandbox Game Reviews",
+        "description": "Find the most helpful Sandbox game reviews and experiences from users like you. Or write your Sandbox game review and let the community know your thoughts."
+      },
+      "strategy": {
+        "slug": "strategy",
+        "name": "Strategy",
+        "title": "Strategy Game Reviews",
+        "description": "Find the most helpful Strategy game reviews and experiences from users like you. Or write your Strategy game review and let the community know your thoughts."
+      },
+      "stealth": {
+        "slug": "stealth",
+        "name": "Stealth",
+        "title": "Stealth Game Reviews",
+        "description": "Find the most helpful Stealth game reviews and experiences from users like you. Or write your Stealth game review and let the community know your thoughts."
+      },
+      "fps": {
+        "slug": "fps",
+        "name": "FPS (First-Person Shooter)",
+        "title": "FPS Game Reviews",
+        "description": "Find the most helpful FPS game reviews and experiences from users like you. Or write your FPS game review and let the community know your thoughts."
+      },
+      "survival": {
+        "slug": "survival",
+        "name": "Survival",
+        "title": "Survival Game Reviews",
+        "description": "Find the most helpful Survival game reviews and experiences from users like you. Or write your Survival game review and let the community know your thoughts."
+      }
+    }
+  },
+  "tech": {
+    "title": "Tech Product Reviews from Users like You",
+    "description": "Find the most helpful tech product reviews and experiences from users that own, use and test the products. Or write your product review and help others make a better choice.",
+    "subcategories": {
+      "accessories": {
+        "slug": "accessories",
+        "name": "Accessories",
+        "title": "Accessory Reviews",
+        "description": "Find the most helpful Accessory reviews and experiences from users like you. Or write your Accessory review and help others make a better choice."
+      },
+      "batteries-power-banks": {
+        "slug": "batteries-power-banks",
+        "name": "Batteries & Power Banks",
+        "title": "Battery and Power Bank Reviews",
+        "description": "Find the most helpful Battery or Power Bank reviews and experiences from users like you. Or write your Battery or Power Bank review and help others make a better choice."
+      },
+      "consoles": {
+        "slug": "consoles",
+        "name": "Consoles",
+        "title": "Console Reviews",
+        "description": "Find the most helpful Console reviews and experiences from users like you. Or write your Console review and help others make a better choice."
+      },
+      "monitors": {
+        "slug": "monitors",
+        "name": "Computer Monitors",
+        "title": "Computer Monitor Reviews",
+        "description": "Find the most helpful Computer Monitor reviews and experiences from users like you. Or write your Computer Monitor review and help others make a better choice."
+      },
+      "digital-cameras-video": {
+        "slug": "digital-cameras-video",
+        "name": "Digital Cameras & Video",
+        "title": "Digital Camera/Video Reviews",
+        "description": "Find the most helpful Digital Camera/Video reviews and experiences from users like you. Or write your Digital Camera/Video review and help others make a better choice."
+      },
+      "drones": {
+        "slug": "drones",
+        "name": "Drones",
+        "title": "Drone Reviews",
+        "description": "Find the most helpful Drone reviews and experiences from users like you. Or write your Drone review and help others make a better choice."
+      },
+      "drives-storage": {
+        "slug": "drives-storage",
+        "name": "Drives & Storage",
+        "title": "Drive and Storage Reviews",
+        "description": "Find the most helpful Drive/Storage reviews and experiences from users like you. Or write your Drive/Storage review and help others make a better choice."
+      },
+      "e-readers": {
+        "slug": "e-readers",
+        "name": "E-Readers",
+        "title": "E-Reader Reviews",
+        "description": "Find the most helpful E-Reader reviews and experiences from users like you. Or write your E-Reader review and help others make a better choice."
+      },
+      "headphones": {
+        "slug": "headphones",
+        "name": "Headphones",
+        "title": "Headphones Reviews",
+        "description": "Find the most helpful Headphones reviews and experiences from users like you. Or write your Headphones review and help others make a better choice."
+      },
+      "laptops-notebooks": {
+        "slug": "laptops-notebooks",
+        "name": "Laptops & Notebooks",
+        "title": "Laptop and Notebook Reviews",
+        "description": "Find the most helpful Laptop or Notebook reviews and experiences from users like you. Or write your Laptop or Notebook review and help others make a better choice."
+      },
+      "modems-routers": {
+        "slug": "modems-routers",
+        "name": "Modems & Routers",
+        "title": "Modem and Router Reviews",
+        "description": "Find the most helpful Modem and Router reviews and experiences from users like you. Or write your Modem or Router review and help others make a better choice."
+      },
+      "desktop-pcs": {
+        "slug": "desktop-pcs",
+        "name": "PCs & Accessories",
+        "title": "PC and Accessory Reviews",
+        "description": "Find the most helpful PC and Accessory reviews and experiences from users like you. Or write your PC or Accessory review and help others make a better choice."
+      },
+      "scanners-printers": {
+        "slug": "scanners-printers",
+        "name": "Scanners & Printers",
+        "title": "Scanner and Printer Reviews",
+        "description": "Find the most helpful Scanner and Printer reviews and experiences from users like you. Or write your Scanner or Printer review and help others make a better choice."
+      },
+      "tablets": {
+        "slug": "tablets",
+        "name": "Tablets",
+        "title": "Tablet Reviews",
+        "description": "Find the most helpful Tablet reviews and experiences from users like you. Or write your Tablet review and help others make a better choice."
+      },
+      "smartphones": {
+        "slug": "smartphones",
+        "name": "Smartphones",
+        "title": "Smartphone Reviews",
+        "description": "Find the most helpful Smartphone reviews and experiences from users like you. Or write your Smartphone review and help others make a better choice."
+      },
+      "smart-home": {
+        "slug": "smart-home",
+        "name": "Smart Home Devices",
+        "title": "Smart Home Device Reviews",
+        "description": "Find the most helpful Smart Home Device reviews and experiences from users like you. Or write your Smart Home Device review and help others make a better choice."
+      },
+      "speakers-audio": {
+        "slug": "speakers-audio",
+        "name": "Speakers & Audio",
+        "title": "Speakers and Audio Reviews",
+        "description": "Find the most helpful Speakers and Audio reviews and experiences from users like you. Or write your Speakers or Audio review and help others make a better choice."
+      },
+      "tvs-projectors": {
+        "slug": "tvs-projectors",
+        "name": "TVs & Projectors",
+        "title": "TV and Projector Reviews",
+        "description": "Find the most helpful TV and Projector reviews and experiences from users like you. Or write your TV or Projector review and help others make a better choice."
+      },
+      "vr": {
+        "slug": "vr",
+        "name": "Virtual Reality (VR)",
+        "title": "Virtual Reality (VR) Reviews",
+        "description": "Find the most helpful Virtual Reality (VR) reviews and experiences from users like you. Or write your Virtual Reality (VR) review and help others make a better choice."
+      },
+      "wearables": {
+        "slug": "wearables",
+        "name": "Wearables",
+        "title": "Wearable Reviews",
+        "description": "Find the most helpful Wearable reviews and experiences from users like you. Or write your Wearable review and help others make a better choice."
+      }
+    }
+  }
+}

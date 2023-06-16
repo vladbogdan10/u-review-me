@@ -1,0 +1,20 @@
+[
+  {
+    "_id": "61cf0c980a2cb60014c17a4d",
+    "contentType": "Comment",
+    "contentId": "61c9956d20c3da0013a00cea",
+    "userId": "61c74f6bcb6b4b0014fbf775",
+    "createdAt": "2021-12-31T13:58:48.831Z",
+    "updatedAt": "2021-12-31T13:58:48.831Z",
+    "__v": 0
+  },
+  {
+    "_id": "61cf0ca80a2cb60014c17a61",
+    "contentType": "Comment",
+    "contentId": "61c995fa20c3da0013a00d3c",
+    "userId": "61c74f6bcb6b4b0014fbf775",
+    "createdAt": "2021-12-31T13:59:04.533Z",
+    "updatedAt": "2021-12-31T13:59:04.533Z",
+    "__v": 0
+  }
+]

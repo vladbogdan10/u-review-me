@@ -1,0 +1,221 @@
+[
+  {
+    "author": {
+      "image": "",
+      "id": "61c9954320c3da0013a00ccd",
+      "username": "reireiinc"
+    },
+    "repliesTo": { "id": null, "username": null },
+    "parent": null,
+    "level": 0,
+    "commentUpdatedAt": null,
+    "isDeleted": false,
+    "likes": 0,
+    "_id": "61cd7807a11c450013218b46",
+    "post": "61c97a6513c15500133fcc5c",
+    "content": "<p>and another</p>",
+    "createdAt": "2021-12-30T09:12:39.648Z",
+    "updatedAt": "2021-12-30T09:12:39.648Z",
+    "__v": 0
+  },
+  {
+    "author": {
+      "image": "",
+      "id": "61c9954320c3da0013a00ccd",
+      "username": "reireiinc"
+    },
+    "repliesTo": { "id": null, "username": null },
+    "parent": null,
+    "level": 0,
+    "commentUpdatedAt": null,
+    "isDeleted": false,
+    "likes": 0,
+    "_id": "61cd7802a11c450013218b42",
+    "post": "61c97a6513c15500133fcc5c",
+    "content": "<p>add another comment</p>",
+    "createdAt": "2021-12-30T09:12:34.614Z",
+    "updatedAt": "2021-12-30T09:12:34.614Z",
+    "__v": 0
+  },
+  {
+    "author": {
+      "image": "",
+      "id": "61c9954320c3da0013a00ccd",
+      "username": "reireiinc"
+    },
+    "repliesTo": { "id": null, "username": null },
+    "parent": null,
+    "level": 0,
+    "commentUpdatedAt": null,
+    "isDeleted": false,
+    "likes": 0,
+    "_id": "61cd77b1a11c450013218b25",
+    "post": "61c97a6513c15500133fcc5c",
+    "content": "<p>aaand another one</p>",
+    "createdAt": "2021-12-30T09:11:13.227Z",
+    "updatedAt": "2021-12-30T09:11:13.227Z",
+    "__v": 0,
+    "hasReplies": true
+  },
+  {
+    "author": {
+      "image": "",
+      "id": "61c9954320c3da0013a00ccd",
+      "username": "reireiinc"
+    },
+    "repliesTo": { "id": "61cd77b1a11c450013218b25", "username": "reireiinc" },
+    "parent": "61cd77b1a11c450013218b25",
+    "level": 1,
+    "commentUpdatedAt": null,
+    "isDeleted": true,
+    "likes": 0,
+    "_id": "61cd77fca11c450013218b3e",
+    "post": "61c97a6513c15500133fcc5c",
+    "content": "<p>delete this replay</p>",
+    "createdAt": "2021-12-30T09:12:28.151Z",
+    "updatedAt": "2021-12-30T09:12:59.081Z",
+    "__v": 0,
+    "hasReplies": true
+  },
+  {
+    "author": {
+      "image": "",
+      "id": "61c9954320c3da0013a00ccd",
+      "username": "reireiinc"
+    },
+    "repliesTo": { "id": "61cd77fca11c450013218b3e", "username": "reireiinc" },
+    "parent": "61cd77b1a11c450013218b25",
+    "level": 2,
+    "commentUpdatedAt": null,
+    "isDeleted": false,
+    "likes": 0,
+    "_id": "61cd7817a11c450013218b4a",
+    "post": "61c97a6513c15500133fcc5c",
+    "content": "<p>hehe</p>",
+    "createdAt": "2021-12-30T09:12:55.057Z",
+    "updatedAt": "2021-12-30T09:12:55.057Z",
+    "__v": 0
+  },
+  {
+    "author": {
+      "image": "",
+      "id": "61c9954320c3da0013a00ccd",
+      "username": "reireiinc"
+    },
+    "repliesTo": { "id": null, "username": null },
+    "parent": null,
+    "level": 0,
+    "commentUpdatedAt": null,
+    "isDeleted": false,
+    "likes": 0,
+    "_id": "61cd7782a11c450013218b0b",
+    "post": "61c97a6513c15500133fcc5c",
+    "content": "<p>more comments :)</p>",
+    "createdAt": "2021-12-30T09:10:26.648Z",
+    "updatedAt": "2021-12-30T09:10:26.648Z",
+    "__v": 0,
+    "hasReplies": true
+  },
+  {
+    "author": {
+      "image": "",
+      "id": "61c9954320c3da0013a00ccd",
+      "username": "reireiinc"
+    },
+    "repliesTo": { "id": "61cd7782a11c450013218b0b", "username": "reireiinc" },
+    "parent": "61cd7782a11c450013218b0b",
+    "level": 1,
+    "commentUpdatedAt": null,
+    "isDeleted": false,
+    "likes": 0,
+    "_id": "61cd778da11c450013218b0f",
+    "post": "61c97a6513c15500133fcc5c",
+    "content": "<p>some replay</p>",
+    "createdAt": "2021-12-30T09:10:37.934Z",
+    "updatedAt": "2021-12-30T09:37:17.631Z",
+    "__v": 0
+  },
+  {
+    "author": {
+      "image": "",
+      "id": "61c9954320c3da0013a00ccd",
+      "username": "reireiinc"
+    },
+    "repliesTo": { "id": null, "username": null },
+    "parent": null,
+    "level": 0,
+    "commentUpdatedAt": null,
+    "isDeleted": true,
+    "likes": 0,
+    "_id": "61cd777da11c450013218aff",
+    "post": "61c97a6513c15500133fcc5c",
+    "content": "<p>some comment here</p>",
+    "createdAt": "2021-12-30T09:10:21.014Z",
+    "updatedAt": "2021-12-30T09:12:15.796Z",
+    "__v": 0
+  },
+  {
+    "author": {
+      "image": "",
+      "id": "61c9954320c3da0013a00ccd",
+      "username": "reireiinc"
+    },
+    "repliesTo": { "id": null, "username": null },
+    "parent": null,
+    "level": 0,
+    "commentUpdatedAt": null,
+    "isDeleted": false,
+    "likes": 1,
+    "_id": "61c9956d20c3da0013a00cea",
+    "post": "61c97a6513c15500133fcc5c",
+    "content": "<p>Comment from Rei Rei :)</p>",
+    "createdAt": "2021-12-27T10:29:01.176Z",
+    "updatedAt": "2021-12-27T10:31:11.850Z",
+    "__v": 0,
+    "isLikedByCurrentUser": true,
+    "hasReplies": true
+  },
+  {
+    "author": {
+      "image": "",
+      "id": "61c979f513c15500133fcc41",
+      "username": "testuser"
+    },
+    "repliesTo": { "id": "61c9956d20c3da0013a00cea", "username": "reireiinc" },
+    "parent": "61c9956d20c3da0013a00cea",
+    "level": 1,
+    "commentUpdatedAt": null,
+    "isDeleted": false,
+    "likes": 1,
+    "_id": "61c995fa20c3da0013a00d3c",
+    "post": "61c97a6513c15500133fcc5c",
+    "content": "<p>hello Rei Rei</p>",
+    "createdAt": "2021-12-27T10:31:22.346Z",
+    "updatedAt": "2021-12-28T12:01:30.325Z",
+    "__v": 0,
+    "isLikedByCurrentUser": true,
+    "hasReplies": true
+  },
+  {
+    "author": {
+      "image": "",
+      "id": "61c9954320c3da0013a00ccd",
+      "username": "reireiinc"
+    },
+    "repliesTo": {
+      "id": "61c995fa20c3da0013a00d3c",
+      "username": "testuser"
+    },
+    "parent": "61c9956d20c3da0013a00cea",
+    "level": 2,
+    "commentUpdatedAt": null,
+    "isDeleted": false,
+    "likes": 0,
+    "_id": "61c9aff520c3da0013a00f7d",
+    "post": "61c97a6513c15500133fcc5c",
+    "content": "<p>Hello</p>",
+    "createdAt": "2021-12-27T12:22:13.688Z",
+    "updatedAt": "2021-12-27T12:22:13.688Z",
+    "__v": 0
+  }
+]

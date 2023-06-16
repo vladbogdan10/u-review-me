@@ -1,0 +1,20 @@
+[
+  {
+    "_id": "61caf81ea11c450013218a51",
+    "contentType": "Post",
+    "contentId": "61c97a6513c15500133fcc5c",
+    "userId": "61c74f6bcb6b4b0014fbf775",
+    "createdAt": "2021-12-31T13:58:48.831Z",
+    "updatedAt": "2021-12-31T13:58:48.831Z",
+    "__v": 0
+  },
+  {
+    "_id": "61caf823a11c450013218aac",
+    "contentType": "Post",
+    "contentId": "61c9af9a20c3da0013a00f4a",
+    "userId": "61c74f6bcb6b4b0014fbf775",
+    "createdAt": "2021-12-31T13:59:04.533Z",
+    "updatedAt": "2021-12-31T13:59:04.533Z",
+    "__v": 0
+  }
+]

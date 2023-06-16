@@ -1,0 +1,32 @@
+version: '3.7'
+
+services:
+  main:
+    build:
+      context: .
+      target: base
+    container_name: app2
+    environment:
+      NEXTAUTH_URL: http://localhost:3000
+      SECRET: super-secret-here
+      MONGODB_URI: mongodb://root:root@mongodb:27017/app?authSource=admin
+    volumes:
+      - .:/base
+    ports:
+      - '3000:3000'
+    command: npm run dev
+    depends_on:
+      - mongodb
+  mongodb:
+    image: mongo:5.0
+    container_name: app_db
+    environment:
+      MONGO_INITDB_ROOT_USERNAME: root
+      MONGO_INITDB_ROOT_PASSWORD: root
+    volumes:
+      - mongodb_data_container:/data/db
+      # - ./data:/data/db
+    ports:
+      - '27017:27017'
+volumes:
+  mongodb_data_container:

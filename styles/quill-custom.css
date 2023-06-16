@@ -1,0 +1,33 @@
+.ql-editor a,
+.ql-snow a {
+  color: #f0bc17; /* brand */
+}
+
+.ql-pro,
+.ql-con {
+  /* never add display: flex or inline
+  because it fucks up quill custom elements */
+  font-size: 16px;
+  font-weight: 500;
+  line-height: 1.7;
+}
+
+p.ql-pro::before {
+  content: '';
+  background-image: url("data:image/svg+xml,%3Csvg fill='white' xmlns='http://www.w3.org/2000/svg' viewBox='0 0 24 24'%3E%3Cpath d='M12 2C6.48 2 2 6.48 2 12s4.48 10 10 10 10-4.48 10-10S17.52 2 12 2zm5 11h-4v4h-2v-4H7v-2h4V7h2v4h4v2z'%3E%3C/path%3E%3C/svg%3E");
+  background-repeat: no-repeat;
+  width: 30px;
+  height: 20px;
+  display: inline-block;
+  vertical-align: text-bottom;
+}
+
+p.ql-con::before {
+  content: '';
+  background-image: url("data:image/svg+xml,%3Csvg fill='white' xmlns='http://www.w3.org/2000/svg' viewBox='0 0 24 24'%3E%3Cpath d='M12 2C6.48 2 2 6.48 2 12s4.48 10 10 10 10-4.48 10-10S17.52 2 12 2zm5 11H7v-2h10v2z'%3E%3C/path%3E%3C/svg%3E");
+  background-repeat: no-repeat;
+  width: 30px;
+  height: 20px;
+  display: inline-block;
+  vertical-align: text-bottom;
+}
